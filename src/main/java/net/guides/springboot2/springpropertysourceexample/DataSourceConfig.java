@@ -50,4 +50,10 @@ public class DataSourceConfig {
 	public void display(){
 	System.out.println("some more lines are added in this method to test stash command");
 	}
+
+	public String nameByAddress()
+	{
+	if (s.equals("sunil")
+	{System.out.println("sunil");
+	}}
 }
