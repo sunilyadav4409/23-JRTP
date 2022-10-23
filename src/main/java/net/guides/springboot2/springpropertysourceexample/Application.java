@@ -10,5 +10,10 @@ public class Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 	}
+
+pubic vod mainmethodchanges()
+{
+System.out.println("main method got changed");
+}
 }
 
