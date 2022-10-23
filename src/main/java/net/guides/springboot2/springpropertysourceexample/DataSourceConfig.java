@@ -47,4 +47,7 @@ public class DataSourceConfig {
 	public void show(){
 	System.out.println("this is sunil shows");
 	}
+	public void display(){
+	System.out.println("some more lines are added in this method to test stash command");
+	}
 }
